@@ -14,6 +14,7 @@ body{
     align-items: center;
     font-family: 'Aboreto', cursive;
     gap:3vh;
+    background-image: linear-gradient(to right, #DECBA4, #cae9e9);
 }
 
 h1{
@@ -34,6 +35,8 @@ ul li{
     font-size: 125% ;
     list-style-type: none;
     margin: 8px;
+    text-underline-offset: 5px;
+   
 }
 
 footer{
